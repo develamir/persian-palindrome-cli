@@ -1,0 +1,20 @@
+{
+  "name": "persian-palindrome-cli",
+  "version": "1.0.0",
+  "description": "Check Persian palindromes from the command line.",
+  "main": "index.js",
+  "bin": {
+    "persian-palindrome": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "persian",
+    "palindrome",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT"
+}
